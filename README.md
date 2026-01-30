@@ -22,9 +22,7 @@ Find correlations between numerical features.
 Calculated key descriptive statistics for all numerical features:
 
 | Feature  |   Mean  |  Median   | Mode   | Std Dev|
-
 |-----------|-------|---------|--------|--------|
-
 |  Open     | 86.35 |  64.97  |  70.0  | 101    |
 |  High     | 87.13 |  65.56  |  72.0  | 102    |
 |  Low      | 85.55 | 64.35   |  77.0  | 100    | 
